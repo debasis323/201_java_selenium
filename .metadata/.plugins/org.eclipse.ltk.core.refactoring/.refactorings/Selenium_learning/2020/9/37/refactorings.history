@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;pages.SigIinPage&apos; to &apos;SignInPage&apos;&#x0A;- Original project: &apos;Selenium_learning&apos;&#x0A;- Original element: &apos;pages.SigIinPage&apos;&#x0A;- Renamed element: &apos;pages.SignInPage&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;SigIinPage&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;pages{SigIinPage.java[SigIinPage" matchStrategy="1" name="SignInPage" qualified="false" references="true" similarDeclarations="false" stamp="1599829981395" textual="false" version="1.0"/>
+</session>
